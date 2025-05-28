@@ -22,7 +22,7 @@ Let’s build a creative collection together!
    - Click **Add file** → **Create new file**.  
    - In the filename box, type your folder name followed by a slash `/` and then the filename (e.g., `ayesha-sketches/README.md`).  
    - This creates the folder automatically.  
-   - You can add files like `.html`, `.js`, `.css`, `.zip`, `.pdf`, screenshots, or GIFs inside your folder by creating more files or uploading them.
+   - You can add files like `.html`, `.js`, `.css`, `.pdf`, screenshots, or GIFs inside your folder by creating more files or uploading them. Avoid zip files, for better online accessibility!
 
 4. **Upload your files**  
    - Use **Add file** → **Upload files** to drag and drop your work into your folder.

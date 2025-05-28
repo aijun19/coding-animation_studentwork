@@ -8,7 +8,7 @@ Let’s build a creative collection together!
 
 ---
 
-**How to Add Your Work**
+# How to Add Your Work
 
 
 1. **Fork the repository**  

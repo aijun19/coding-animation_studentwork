@@ -34,7 +34,7 @@ Let’s build a creative collection together!
    - Go to the original repo page.  
    - You’ll see a **Compare & pull request** button for your fork’s recent changes — click it.  
    - Write a short description of your addition and submit the PR.  
-   - The repo maintainers will review your work and merge it if everything looks good.
+   - The repo maintainer will review your work and merge it if everything looks good.
 
 ---
 ## What to Upload

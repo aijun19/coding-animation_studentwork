@@ -11,47 +11,32 @@ Let’s build a creative collection together!
 **How to Add Your Work**
 
 
-Fork the repository
+1. **Fork the repository**  
+   - On the original repo page, click the **Fork** button at the top right.  
+   - This creates a copy of the repo in *your* GitHub account.
 
-On the original repo page, click the Fork button at the top right.
+2. **Go to your forked repo**  
+   - Navigate to your copy of the repo on GitHub (`github.com/your-username/repo-name`).
 
-This creates a copy of the repo in your GitHub account.
+3. **Create a folder with your name or nickname in the root of the repo**  
+   - Click **Add file** → **Create new file**.  
+   - In the filename box, type your folder name followed by a slash `/` and then the filename (e.g., `ayesha-sketches/README.md`).  
+   - This creates the folder automatically.  
+   - You can add files like `.html`, `.js`, `.css`, `.zip`, `.pdf`, screenshots, or GIFs inside your folder by creating more files or uploading them.
 
-Go to your forked repo
+4. **Upload your files**  
+   - Use **Add file** → **Upload files** to drag and drop your work into your folder.
 
-Navigate to your copy of the repo on GitHub (github.com/your-username/repo-name).
+5. **Add a short commit message** (e.g., “Add ayesha-sketches folder with projects”)  
+   - Click **Commit changes** to save your work in your fork.
 
-Create a folder with your name or nickname in the root of the repo
+6. **Create a Pull Request (PR) to the original repo**  
+   - Go to the original repo page.  
+   - You’ll see a **Compare & pull request** button for your fork’s recent changes — click it.  
+   - Write a short description of your addition and submit the PR.  
+   - The repo maintainers will review your work and merge it if everything looks good.
 
-Click Add file → Create new file.
-
-In the filename box, type your folder name followed by a slash / and then the filename (e.g. ayesha-sketches/README.md).
-
-This automatically creates the folder.
-
-You can then add files like .html, .js, .css, .zip, .pdf, screenshots, or GIFs inside your folder by creating more files or uploading them.
-
-Upload your files
-
-To upload multiple files, use Add file → Upload files, drag and drop your work into your folder.
-
-Add a short commit message (e.g., “Add ayesha-sketches folder with projects”)
-
-Click Commit changes to save your work in your fork.
-
-Create a Pull Request to the original repo
-
-Go back to the original repo page.
-
-You’ll see a Compare & pull request button for your fork’s recent changes — click it.
-
-Write a short description of your addition and submit the PR.
-
-The repo maintainers will review your work and merge it if everything looks good.
-
-   
 ---
-
 ## What to Upload
 
 - Your p5.js sketch files (`.html` or `.js`)
